@@ -1,0 +1,15 @@
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\bin\Debug\GSM Encoder.exe.config
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\bin\Debug\GSM Encoder.exe
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\bin\Debug\GSM Encoder.pdb
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder.csproj.AssemblyReference.cache
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\MainWindow.g.cs
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\App.g.cs
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder_MarkupCompile.cache
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder_MarkupCompile.lref
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\MainWindow.baml
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder.g.resources
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM_Encoder.Properties.Resources.resources
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder.csproj.GenerateResource.cache
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder.exe
+C:\Users\Attaque\Desktop\test\GSM Encoder\GSM Encoder\obj\Debug\GSM Encoder.pdb
