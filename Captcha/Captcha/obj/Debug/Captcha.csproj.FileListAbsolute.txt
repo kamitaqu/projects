@@ -1,0 +1,15 @@
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\MainWindow.g.cs
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\App.g.cs
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha_MarkupCompile.cache
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha_MarkupCompile.lref
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\MainWindow.baml
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.g.resources
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.exe
+C:\Users\Attaque\source\repos\kamitaqu\projects\Captcha\Captcha\obj\Debug\Captcha.pdb
